@@ -1,0 +1,8 @@
+xarray>=2023.1.0
+matplotlib>=3.7.1
+pandas>=2.0.0
+fsspec>=2023.1.0
+s3fs>=2023.1.0
+monet>=2.3.1
+cartopy>=0.21.1
+git+https://github.com/noaa-mdl/grib2io.git#egg=grib2io
